@@ -1,1 +1,6 @@
 theme: jekyll-theme-modernist
+nav:
+- name: Home
+  link: /
+- name: About
+  link: /about.html
